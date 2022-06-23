@@ -1,0 +1,5 @@
+:root {
+    --primary: #7bf804;
+    --primary-opaque: rgba(102, 209, 146, 0.2);
+    --primary-opaque-strong: rrgba(109, 105, 104, 1);
+}
