@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PW Plus | PW+</title>
+    <meta name="title" content="PW Plus | PW+">
+    <meta name="description" content="Enhances your Pixel Worlds experience.">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://pw-plus.com/">
+    <meta property="og:title" content="PW Plus | PW+">
+    <meta property="og:description" content="Enhances your Pixel Worlds experience.">
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/984265541369880687/998384146755883139/New_Project_7.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://pw-plus.com/">
+    <meta property="twitter:title" content="PW Plus | PW+">
+    <meta property="twitter:description" content="Enhances your Pixel Worlds experience.">
+    <meta property="twitter:image" content="https://cdn.discordapp.com/attachments/984265541369880687/998384146755883139/New_Project_7.png">
+
+    <link href="assets/css/imports_new.css" rel="stylesheet">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="icon" href="https://cdn.discordapp.com/attachments/984265541369880687/989319883047202837/logo.png">
+
+    <style>
+        body {
+            background: #0D0F0F !important;
+        }
+        
+        section {
+            width: 100%;
+            height: 100vh;
+            color: white;
+        }
+        
+        .box {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 9999;
+        }
+        
+        section h1 {
+            font-weight: bold;
+            margin-bottom: .5rem;
+        }
+        
+        section p {
+            color: #9ba1a6;
+            font-weight: bold;
+            position: relative;
+            bottom: .5rem;
+            display: inline-block;
+        }
+        
+    </style>
+
+    <!-- CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
+
+    <!-- JQUERY -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- AOS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+</head>
+
+<body>
+    <section>
+        <div style="position:absolute; left:50%; top:50%; transform: translate(-50%, -50%); text-align: center;">
+            <h1>Download 1</h1>
+            <p>You'll go through some advertisements to support the developers.  </p><br>
+            <a href="" style="background: #7bf804; cursor: pointer; padding: .67rem 1.9rem; color: #fff; font-weight: 600; font-size: .85rem; text-decoration: none; font-size: .95rem; box-shadow: 0 0 20px 2px rgb(0 0 0 / 2%); transition: box-shadow .3s ease,background-color .3s ease;  border-radius: 5px; border: 0;">Download</a>
+        </div>
+        <div class="overlay-top-right"></div>
+        <div class="overlay-bottom-right"></div>
+        <div class="overlay-bottom-left"></div>
+    </section>
+
+    <!-- BOOTSTRAP JS -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap.js"></script>
+
+    </script>
+</body>
+
+</html>
